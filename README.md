@@ -1,6 +1,16 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, and Shadcn UI 🔥🔥
+Job Portal Application 🌟
 
 A modern **Job Portal Application** built with **React (Vite)**, **Tailwind CSS**, **Supabase** (database & auth), **Clerk** (authentication), and **Shadcn UI** (beautiful UI components).  
+
+Frontend
+https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Shadcn_UI-Component_Library-blueviolet
+https://img.shields.io/badge/Framer_Motion-Animation_System-black
+
+Backend
+https://img.shields.io/badge/Supabase-Database-3ECF8E?logo=supabase&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white
 
 ## 🚀 Features
 - ✅ User Authentication with Clerk  
