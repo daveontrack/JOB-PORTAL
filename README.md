@@ -2,12 +2,6 @@
 
 A modern **Job Portal Application** built with **React (Vite)**, **Tailwind CSS**, **Supabase** (database & auth), **Clerk** (authentication), and **Shadcn UI** (beautiful UI components).  
 
-📺 Tutorial: [YouTube Guide](https://www.youtube.com/watch?v=2XF-HgauItk)
-
-![Job Portal Preview](https://github.com/user-attachments/assets/1da23b25-1f29-4402-be74-03685d9b732d)
-
----
-
 ## 🚀 Features
 - ✅ User Authentication with Clerk  
 - ✅ Supabase backend (Jobs, Applications, Companies)  
