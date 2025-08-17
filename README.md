@@ -1,4 +1,4 @@
-#Job Portal 
+# Job Portal Application 🌟
 
 A modern **Job Portal Application** built with **React (Vite)**, **Tailwind CSS**, **Supabase** (database & auth), **Clerk** (authentication), and **Shadcn UI** (beautiful UI components).  
 
