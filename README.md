@@ -10,7 +10,7 @@ Frontend
 - ✅ Job Listing, Apply, Save, and Manage Jobs  
 - ✅ Responsive UI with Tailwind CSS & Shadcn UI  
 - ✅ Protected Routes (only logged-in users can apply/post jobs)  
-- ✅ Reusable components (Cards, Buttons, Carousels, Drawers, etc.)  
+- ✅ Reusable components (Cards, Buttons, Carousels, Drawers,Textarea etc.)  
 
 ---
 
