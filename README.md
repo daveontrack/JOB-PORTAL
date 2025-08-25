@@ -17,8 +17,7 @@ Frontend
 ## ⚙️ Tech Stack
 - **Frontend:** React + Vite, Tailwind CSS, Shadcn UI  
 - **Backend / Database:** Supabase  
-- **Authentication:** Clerk  
-- **Deployment:** Vercel / Netlify  
+- **Authentication:** Clerk   
 
 ---
 
